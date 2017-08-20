@@ -9,7 +9,7 @@ mkdir ~/bin
 PATH=~/bin:$PATH
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
 chmod a+x ~/bin/repo
-yes | repo init -u https://github.com/Rendyindo/manifest -b marshmallow-6.0
+yes | repo init -u https://github.com/Xcelerator1/Flyme_v3750-cm -b marshmallow-6.0
 repo sync -c
 source build/envsetup.sh
 cv3750
