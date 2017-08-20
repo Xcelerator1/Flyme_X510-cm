@@ -1,4 +1,4 @@
-#Flyme 6 for Infinix Hot 2
+#Flyme 6 for WIKO ROBBY
 **Status:** BETA
 
 [Bugs go here](https://github.com/Rendyindo/Flyme_X510-cm/issues/2)
